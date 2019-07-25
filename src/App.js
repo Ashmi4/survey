@@ -10,7 +10,7 @@ import Surveypage from "./pages/surveypage";
 
 function App() {
   return (
-   <Router>
+   <Router> 
      <Index path="/"/>
      <About path="/about"/>
      <Login path="/login"/>
