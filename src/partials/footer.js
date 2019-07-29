@@ -34,13 +34,13 @@ const Footer = () => (
 
         <ul class="list-unstyled">
           <li>
-            <a href="#!">Who We Are</a>
+            <a href="/about">Who We Are</a>
           </li>
           <li>
-            <a href="#!">How it Works</a>
+            <a href="/surveypage">How it Works</a>
           </li>
           <li>
-            <a href="#!">Our Community</a>
+            <a href="/">Our Community</a>
           </li>
           
         </ul>

@@ -40,6 +40,7 @@ const Contactus = () => (
     
     <button class="btn btn-info btn-block" type="submit">Send</button>
     </form>
+    <Footer/>
 </div>
 
 

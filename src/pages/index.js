@@ -8,14 +8,39 @@ const Index = () => (
     <div class="container-fluid">
       <Navbar/>
       <img src="http://cdn.strategyonline.ca/wp/wp-content/uploads/2015/12/shutterstock_253684528.jpg?73961c" class="img-fluid" alt="Responsive image"/>
-      <div class="media">
-  <img class="align-self-start mr-3" src="..." alt="Generic placeholder image"/>
-  <div class="media-body">
-    <h5 class="mt-0">Top-aligned media</h5>
-    <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
-    <p>Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+      <section class="my-5">
+
+   
+<div class="row">
+
+ 
+  <div class="col-lg-12 col-xl-12">
+
+    
+    <h3 class="font-weight-bold mb-3"><strong>Survey App</strong></h3>
+  
+    <p class="dark-grey-text">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit
+      quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus
+      et aut officiis debitis cum soluta nobis est eligendi placeat facere aut rerum.</p>
+    
+  
+  
+    <a class="btn btn-primary btn-md" href="\about">Read more</a>
+
   </div>
+  
+
 </div>
+
+
+<hr class="my-5"/>
+
+
+  
+
+
+
+</section>
 <Footer/>
   </div>
  

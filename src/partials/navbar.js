@@ -3,7 +3,7 @@ import React from "react"
 const Navbar = () => (
     
     <div>
- <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+ <nav class="navbar navbar-expand-lg navbar-light bg-primary default-color lighten-4">
   <a class="navbar-brand" href="#">Survey App</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
