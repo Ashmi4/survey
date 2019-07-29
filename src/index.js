@@ -1,4 +1,5 @@
 import React from 'react';
+import Img from 'react-image'
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';

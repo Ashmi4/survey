@@ -19,7 +19,7 @@ const Footer = () => (
         <p>www.surveyapp.com</p>
         <p>11A College Crs</p>
         <p>Barrie,ON -L4M 2W4</p>
-        <p>11A College Crs</p>
+        
 
       </div>
       

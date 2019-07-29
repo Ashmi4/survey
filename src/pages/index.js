@@ -1,4 +1,5 @@
 import React from 'react';
+import Img from 'react-image';
 import Navbar from "../partials/navbar";
 import Footer from "../partials/footer";
 
@@ -6,7 +7,7 @@ const Index = () => (
     
     <div class="container-fluid">
       <Navbar/>
-      <img src="..." class="img-fluid" alt="Responsive image"/>
+      <img src="http://cdn.strategyonline.ca/wp/wp-content/uploads/2015/12/shutterstock_253684528.jpg?73961c" class="img-fluid" alt="Responsive image"/>
       <div class="media">
   <img class="align-self-start mr-3" src="..." alt="Generic placeholder image"/>
   <div class="media-body">

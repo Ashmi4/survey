@@ -1,9 +1,9 @@
 import React from 'react';
 import Navbar from "../partials/navbar";
-
+import Footer from "../partials/footer";
 const Register = () => (
     
-    <div>
+    <div class="container-fluid">
         <Navbar/>
         <form>
   <div class="form-row">
@@ -49,8 +49,9 @@ const Register = () => (
       </label>
     </div>
   </div>
-  <button type="submit" class="btn btn-primary">Sign in</button>
+  <button type="submit" class="btn btn-primary">Sign Up</button>
 </form>
+<Footer/>
     </div>
 
 );

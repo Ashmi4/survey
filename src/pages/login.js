@@ -1,9 +1,9 @@
 import React from 'react';
 import Navbar from "../partials/navbar";
-
+import Footer from "../partials/footer";
 const Login = () => (
     
-    <div>
+    <div class="container-fluid">
         <Navbar/>
         <form>
   <div class="form-group">
@@ -21,6 +21,7 @@ const Login = () => (
   </div>
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
+<Footer/>
     </div>
 
 

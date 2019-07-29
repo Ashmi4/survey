@@ -1,9 +1,9 @@
 import React from 'react';
 import Navbar from "../partials/navbar";
-
+import Footer from "../partials/footer";
 const Surveypage = () => (
     
-    <div>
+    <div class="container-fluid">
         <Navbar/>
         <table class="table">
   <thead class="thead-dark">
@@ -66,6 +66,7 @@ const Surveypage = () => (
     </tr>
   </tbody>
 </table>
+<Footer/>
     </div>
 
 );
