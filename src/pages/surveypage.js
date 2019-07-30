@@ -41,7 +41,7 @@ const Surveypage = () => (
       <p class="dark-grey-text">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit
         quo minus id quod maxime placeat facere possimus.</p>
       
-        <a class="btn btn-info btn-rounded btn-md">Click Survey</a>
+        <a class="btn btn-info btn-rounded btn-md" href="">Click Survey</a>
 
     </div>
   

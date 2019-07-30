@@ -17,7 +17,7 @@ const Index = () => (
 
     
     <div class="view overlay rounded z-depth-1-half mb-lg-0 mb-4">
-     <img src="/../images/image.jpg"></img>
+      <img class="img-fluid" src="http://cdn.strategyonline.ca/wp/wp-content/uploads/2015/12/shutterstock_253684528.jpg?73961c" alt="Sample image"/>
       <a>
         <div class="mask rgba-white-slight"></div>
       </a>

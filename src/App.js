@@ -17,6 +17,9 @@ function App() {
      <Register path="/register"/>
      <Contactus path="/contactus"/>
      <Surveypage path="/surveypage"/>
+     
+
+
      </Router>
   );
 }
