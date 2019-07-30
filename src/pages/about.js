@@ -16,7 +16,7 @@ const About = () => (
 
       
       <div class="view overlay rounded z-depth-1-half mb-lg-0 mb-4">
-        <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Others/images/49.jpg" alt="Sample image"/>
+        <img class="img-fluid" src="https://instabug.com/blog/wp-content/uploads/2018/10/Oct_Articles_01_Survey-Template.png" alt="Sample image"/>
         <a>
           <div class="mask rgba-white-slight"></div>
         </a>
@@ -29,21 +29,11 @@ const About = () => (
       
       <h3 class="font-weight-bold mb-3"><strong>Survey App</strong></h3>
     
-      <p class="dark-grey-text">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit
-        quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus
-        et aut officiis debitis cum soluta nobis est eligendi placeat facere aut rerum.</p>
-        <p class="dark-grey-text">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit
-        quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus
-        et aut officiis debitis cum soluta nobis est eligendi placeat facere aut rerum.</p>
-        <p class="dark-grey-text">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit
-        quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus
-        et aut officiis debitis cum soluta nobis est eligendi placeat facere aut rerum.</p>
-        <p class="dark-grey-text">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit
-        quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus
-        et aut officiis debitis cum soluta nobis est eligendi placeat facere aut rerum.</p>
-        <p class="dark-grey-text">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit
-        quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus
-        et aut officiis debitis cum soluta nobis est eligendi placeat facere aut rerum.</p>
+      <p class="dark-grey-text">SurveyApp ask people questions from the types of apps they use most, to how frequently they use smartphone or tablet apps.SurveyApp helps to know people’s habits when it comes to smartphone apps.With this app company or organization can find out how
+       many apps people download each month, what kind of apps they use most, and how many of their apps are free.</p>
+        <p class="dark-grey-text">This will be useful to know more about what people demands from their apps,
+         so company or organization can create an app to fill a nice or target your advertisements accordingly.</p>
+        
       
     
     

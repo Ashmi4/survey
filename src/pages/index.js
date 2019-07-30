@@ -17,7 +17,7 @@ const Index = () => (
 
     
     <div class="view overlay rounded z-depth-1-half mb-lg-0 mb-4">
-      <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Others/images/49.jpg" alt="Sample image"/>
+     <img src="/../images/image.jpg"></img>
       <a>
         <div class="mask rgba-white-slight"></div>
       </a>
@@ -28,7 +28,7 @@ const Index = () => (
   <div class="col-lg-7 col-xl-8">
 
     
-    <h3 class="font-weight-bold mb-3"><strong>Survey App</strong></h3>
+    <h3 class="font-weight-bold mb-3"><strong>Survey to make your app better.</strong></h3>
   
     <p class="dark-grey-text">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit
       quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus

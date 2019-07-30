@@ -33,19 +33,10 @@ const Register = () => (
     <input type="text" id="defaultRegisterPhonePassword" class="form-control" placeholder="Phone number" aria-describedby="defaultRegisterFormPhoneHelpBlock"/>
     <small id="defaultRegisterFormPhoneHelpBlock" class="form-text text-muted mb-4">
         Optional - for two step authentication
-    </small>
-
-  
-    <div class="custom-control custom-checkbox">
-        <input type="checkbox" class="custom-control-input" id="defaultRegisterFormNewsletter"/>
-        <label class="custom-control-label" for="defaultRegisterFormNewsletter">Subscribe to our newsletter</label>
-    </div>
+    </small>   
 
   
     <button class="btn btn-info my-4 btn-block" type="submit">Sign in</button>
-
- 
-
     <hr></hr>
 
     
