@@ -41,21 +41,6 @@ function btnClicked()
 
 
 
-    axios.post('http://165.22.228.124:3000/register', {
-        firstname: firstName,
-        lastname: lastName,
-        email:email,
-        password:password,
-        phonenumber:phoneNumber
-      })
-      .then(function (response) {
-        console.log(response);
-    
-    
-      })
-      .catch(function (error) {
-        console.log(error);
-      });
     
     
 
